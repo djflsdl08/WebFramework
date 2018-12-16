@@ -3,9 +3,9 @@ This is a assignment using SpringJDBC+SpringMVC, Web form and Security in the 'W
 
 * * *
 
-## 5 MENU
+![Alt text](/view.png)
 
-***
+## 5 MENU
 
 ### HOME
 * 메인 페이지
